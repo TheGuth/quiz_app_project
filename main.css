@@ -25,6 +25,10 @@ div {
   border-radius: 25px;
 }
 
+.hidden {
+  display: none;
+}
+
 .myButton {
   box-shadow: 0px 0px 0px 2px #9fb4f2;
   background-color: #7892c2;
